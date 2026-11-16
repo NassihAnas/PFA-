@@ -2,7 +2,7 @@
 
 Master • Présentation de l’avancement et plan de correction
 
-Groupe : Binôme NASSIH   Projet n° : 12   Date : 16/11/2026
+Groupe :  NASSIH Anas - NASSIH Houssam  Projet n° : 12   Date : 16/11/2026
 
 Intitulé du projet : Plateforme intelligente de gestion événementielle et d'assistance IA dédiée au Mondial 2030 (Maroc – Espagne – Portugal)
 
